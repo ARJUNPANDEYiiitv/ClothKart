@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abhijeetraj786/ClothEcommerce.git"
+    "url": "git+https://github.com/ARJUNPANDEYiiitv/ClothKart"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Abhijeetraj786/ClothEcommerce/issues"
+    "url": "https://github.com/ARJUNPANDEYiiitv/ClothKart/issues"
   },
-  "homepage": "https://github.com/Abhijeetraj786/ClothEcommerce#readme",
+  "homepage": "https://github.com/ARJUNPANDEYiiitv/ClothKart#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^9.0.2",
